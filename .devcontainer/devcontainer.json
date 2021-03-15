@@ -1,0 +1,15 @@
+{
+  "name": "discord-notify",
+  "extensions": [
+    // General
+    "editorconfig.editorconfig",
+    "codezombiech.gitignore",
+    "eamodio.gitlens",
+    // Deno
+    "denoland.vscode-deno"
+  ],
+  "settings": {},
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "app",
+  "workspaceFolder": "/app"
+}
